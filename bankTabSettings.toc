@@ -2,8 +2,9 @@
 ## Title: bankTabSettings
 ## Notes: Configure & push Character Bank tab names/icons/filters
 ## Author: Zehel_Fenris
-## Version: 1.0.2
+## Version: @project-version@
 ## SavedVariables: bankTabSettingsDB
 
 bankTabSettings.lua
 bankTabSettings_Options.lua
+
