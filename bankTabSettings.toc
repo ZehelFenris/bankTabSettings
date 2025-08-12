@@ -1,0 +1,9 @@
+## Interface: 110200
+## Title: bankTabSettings
+## Notes: Configure & push Character Bank tab names/icons/filters
+## Author: Zehel_Fenris
+## Version: 1.0.2
+## SavedVariables: bankTabSettingsDB
+
+bankTabSettings.lua
+bankTabSettings_Options.lua
