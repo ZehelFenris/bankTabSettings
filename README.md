@@ -2,8 +2,8 @@
 * Adds a Settings page under Blizzard’s Interface Options (Settings UI).
   * Six accordions: Character Tab 1–6 (all closed by default; only one can be open).
   * Each tab block lets you set:
-    * Tab name (string)
-    * Icon (File ID) (numeric)
+    * Tab name
+    * Icon (currently only supports icon ID need to make icon picker work)
     * Expansion filter: Any / Current Only / Legacy Only
     * Categories (checkboxes): Equipment, Consumables, Profession Goods, Reagents, Junk, Ignore this tab for cleanup
 * Saves to a single account‑wide profile
